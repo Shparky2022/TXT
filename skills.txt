@@ -1,0 +1,4 @@
+Creating documentation
+Preparing software tests
+Understanding the testing process
+Understanding programming languages
