@@ -1,0 +1,4 @@
+FIO Ivanov Ivan Ivanovich
+age 25
+pets 0
+salary 4000
